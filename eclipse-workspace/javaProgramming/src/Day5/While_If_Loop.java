@@ -14,6 +14,7 @@ public class While_If_Loop {
             i++;
 		}
 		
+		// mention which is odd and even
 		int j =11 ;
 		while (j<=20)
 		{
