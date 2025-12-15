@@ -3,6 +3,7 @@ package Day5;
 public class WhileLoopDemo {
 
 	public static void main(String[] args) {
+		
 		// print only print 10 numbers 1 to 10
 		int i = 1;     // Initialization 
 		while ( i <= 11)   // condition 
@@ -11,7 +12,8 @@ public class WhileLoopDemo {
 			i++;     // updation or inc / dec
 		}
 		
-		// // print only hello word 10 times
+		//print only hello word 10 times
+		
 		int j = 1;
 		
 		while ( j<=10)
@@ -29,6 +31,5 @@ public class WhileLoopDemo {
 		k+=2;
 		}
 		
-		// print only 
 	}
 }
