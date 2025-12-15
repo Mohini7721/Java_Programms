@@ -1,0 +1,10 @@
+package Day5;
+
+public class Assigment3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
