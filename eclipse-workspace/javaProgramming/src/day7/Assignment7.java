@@ -6,5 +6,4 @@ public class Assignment7 {
 		// TODO Auto-generated method stub
 
 	}
-
 }
