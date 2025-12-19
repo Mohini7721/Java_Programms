@@ -15,7 +15,7 @@ public class StringMethods {
         
         //1. Length of string --> count no of characters
         
-        String s1 = new String ("you are ");  //count with space 
+        String s1 = new String ("you are");  //count with space 
         int l = s1.length();
         System.out.println("length of you are is :" + l);
        // or System.out.println(s.length());   --> 7
