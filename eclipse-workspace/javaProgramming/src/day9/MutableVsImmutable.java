@@ -12,8 +12,8 @@ public class MutableVsImmutable {
 	Arrays.sort(a);  
 	System.out.println("After sorting...." + Arrays.toString(a));
 	
-	//Immutable --> can not change
 	
+	//Immutable --> can not change
 	String s = new String("welcome ");
 	System.out.println(s);//welcome
 	s.concat("to java");

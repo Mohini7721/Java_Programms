@@ -7,7 +7,7 @@ public class ReverseAString {
 	private static int i;
 
 	public static void main(String[] args) {
-    //Approach 1
+        //Approach 1
 		
 		String s ="Selenium";
 		String rev="";  //empty string
