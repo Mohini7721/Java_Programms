@@ -1,6 +1,6 @@
 package day7;
 
-import java.util.Scanner;
+import java.util.Scanner; //Built-in package
 
 public class Taking_Multiple_Inputs {
 

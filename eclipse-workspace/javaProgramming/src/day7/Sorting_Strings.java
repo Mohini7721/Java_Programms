@@ -1,6 +1,6 @@
 package day7;
 
-import java.util.Arrays;
+import java.util.Arrays;  // built-in package
 
 public class Sorting_Strings {
 

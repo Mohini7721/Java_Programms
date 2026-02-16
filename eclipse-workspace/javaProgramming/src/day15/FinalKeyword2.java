@@ -20,7 +20,7 @@ class Test2 extends Test1
     // because a final method cannot be overridden.
     void m()
     {
-        System.out.println("This is method m from Test2 class");
+        System.out.println("This is m-+ethod m from Test2 class");
     }
 }
 
